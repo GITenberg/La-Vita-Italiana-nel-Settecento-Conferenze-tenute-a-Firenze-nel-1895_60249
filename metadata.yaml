@@ -1,0 +1,33 @@
+_repo: La-Vita-Italiana-nel-Settecento-Conferenze-tenute-a-Firenze-nel-1895_60249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2019-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60249'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Civilization'
+- !lcsh 'Italian literature -- 18th century -- History and criticism'
+- GITenberg
+tableOfContents: Da Aquisgrana a Campoformio (1748-1797), conferenza di R. Bonfadini
+  -- I Medici granduchi, conferenza di I. Del Lungo -- Gli avventurieri, conferenza
+  di E. Masi -- L'abate Galiani (1728-1787), conferenza di V. Pica -- Dal Metastasio
+  a Vittorio Alfieri (1698-1782), conferenza di G. Mazzoni -- Carlo Goldoni (1707-1793),
+  conferenza di F. Martini -- Carlo Gozzi e la fiaba (1720-1806), conferenza di Matilde
+  Serao -- Giuseppe Parini (1729-1799), conferenza di G. Mazzoni -- Vittorio Alfieri
+  (1749-1803), conferenza di E. Panzacchi -- Giovanni Battista Vico (1668-1743), conferenza
+  di G. Bovio -- La fisica sperimentale dopo Galileo, conferenza di A. Eccher -- L'arte
+  nel settecento, conferenza di A. Fradeletto.
+title: 'La Vita Italiana nel Settecento: Conferenze tenute a Firenze nel 1895'
+url: http://www.gutenberg.org/ebooks/60249
